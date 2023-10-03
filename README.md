@@ -1,6 +1,6 @@
 # Creating_VM_with_infrastructure_Azure_using_Terraform
 
-Terraform allows you to define and create complete infrastructure deployments in Azure. This instruction shows you how to createa complete Linux environment and supporting resources with Terraform
+Terraform allows you to define and create complete infrastructure deployments in Azure. This instruction shows you how to create a complete Linux environment and supporting resources with Terraform
 
 # Create an Azure connection and resource group
 
